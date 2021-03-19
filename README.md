@@ -1,5 +1,5 @@
 # HyunJoon-Lim
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=%20Hyun%20Joon%20&fontSize=80&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=%20Hyun%20Joon%20&fontSize=80&textBg=true&animation=blink)
 
 <h3 align ="center"> - :mortar_board: College student </h3>
 <h3 align ="center"> - 🌱 Learning  </h3>
