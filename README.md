@@ -4,7 +4,7 @@
 <h3 align ="center"> - :mortar_board: College student </h3>
 <h3 align ="center"> - 🌱 Learning  </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungking&include_all_commits=true&count_private=true&theme=tokyonight&hide=prs,issues,contribs)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungking&include_all_commits=true&count_private=true&theme=tokyonight&hide=prs,issues)]
 
 <h3 align="center">✨ Learning Tech ✨ </h3>
 
