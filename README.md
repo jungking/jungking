@@ -6,8 +6,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungking&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="center">✨ Learning Tech ✨ </h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
