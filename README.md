@@ -22,7 +22,7 @@
 <h3 align="center">•••</h3>
 <p align="center" align="right">
 	<img alt="Gmail" href="immenige2@gmail.com"src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-<img alt="Discord" href="." src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white"/>
+	<img alt="Discord" href="https://discord.gg/5YTGe2un" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white"/>
 
 
 </p>
