@@ -1,13 +1,13 @@
 # HyunJoon-Lim
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=%20Hyun%20Joon%20&fontSize=80&textBg=true&animation=twinkling)
 <p align="center">
-<h3> - :mortar_board: College student </h3>
-<h3> - 🌱 Learning  </h3>
-
+	<h3> - :mortar_board: College student </h3>
+	<h3> - 🌱 Learning  </h3>
+</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungking&include_all_commits=true&count_private=true&theme=tokyonight&hide=prs,issues)]
 
 <h3 align="center">✨ Learning Tech ✨ </h3>
-
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
