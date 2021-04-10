@@ -2,11 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=%20Hyun%20Joon%20&fontSize=80&textBg=true&animation=twinkling)
 
 
-	<h3> - :mortar_board: College student </h3>
-	<h3> - 🌱 Learning  </h3>
+<h3> - :mortar_board: College student </h3>
+<h3> - 🌱 Learning  </h3>
 
 
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungking&include_all_commits=true&count_private=true&theme=tokyonight&hide=prs,issues)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungking&include_all_commits=true&count_private=true&theme=tokyonight&hide=prs,issues)]
 
 
 
