@@ -10,16 +10,16 @@
 
 <h3 align="center">✨ Learning Tech ✨ </h3>
 <p align="center">
-  <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-square&logo=Thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-square&logo=Spring&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for--square&logo=SpringBoot&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for--square&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for--square&logo=flask&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for--square&logo=python&logoColor=white"/></a>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for--square&logo=TensorFlow&logoColor=white" />
+  <img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF?style=for-square&logo=YOLO&logoColor=white"/>
 
 </p>
